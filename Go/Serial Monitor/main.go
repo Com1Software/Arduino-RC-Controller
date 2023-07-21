@@ -61,6 +61,7 @@ func main() {
 			}
 
 			ch1, ch2, ch3, ch4 := getCHPosition(line)
+			fmt.Print("\033[u\033[K")
 			fmt.Printf("CH1=%s CH2=%s CH3=%s CH4=%s\n", ch1, ch2, ch3, ch4)
 
 		}
