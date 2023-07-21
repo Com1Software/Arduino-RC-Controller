@@ -64,9 +64,10 @@ void loop() {
   
   // read the values from our RC Receiver
   rc_read_values();
-Serial.print(RC_VALUES[RC_CH1]); Serial.print(",");
-Serial.print(RC_VALUES[RC_CH2]); Serial.print(",");
-Serial.print(RC_VALUES[RC_CH3]); Serial.print(",");
+Serial.print("CH1=");
+Serial.print(RC_VALUES[RC_CH1]); Serial.print(",CH2=");
+Serial.print(RC_VALUES[RC_CH2]); Serial.print(",CH3=");
+Serial.print(RC_VALUES[RC_CH3]); Serial.print(",CH4=");
 Serial.print(RC_VALUES[RC_CH4]);Serial.print("\n");
 }
 
