@@ -1,7 +1,7 @@
-#define RC_NUM_CHANNELS 4
-#define SERIAL_PORT_SPEED 115200
+#define RC_NUM_CHANNELS 1
+#define SERIAL_PORT_SPEED 9600
 #define RC_CH1  0
-#define RC_CH1_INPUT  18 // receiver pin 1
+#define RC_CH1_INPUT  2
 uint16_t RC_VALUES[RC_NUM_CHANNELS];
 uint32_t RC_START[RC_NUM_CHANNELS];
 volatile uint16_t RC_SHARED[RC_NUM_CHANNELS];
