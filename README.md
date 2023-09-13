@@ -1,6 +1,6 @@
 # Arduino-RC-Controller
 
-## ---------------Example1
+## Example 1
 
 RC Receiver   ----   Arduino Mega 2560
 - Ground ----- Power Ground
@@ -11,10 +11,18 @@ RC Receiver   ----   Arduino Mega 2560
 - CH4---------- Communication 21SCL
 
 
+## Example 2
 
-## ---------------Example2
+RC Receiver   ----   Arduino Mega 2560
+- Ground ----- Power Ground
+- 5 V+  -------- Power 5V+ 
+- CH1 --------- Communication 18TX1
 
 
-## ---------------Example3
+## Example 3
 
+RC Receiver   ----   Arduino Mega 2560
+- Ground ----- Power Ground
+- 5 V+  -------- Power 5V+ 
+- CH1 --------- Communication 18TX1
   
