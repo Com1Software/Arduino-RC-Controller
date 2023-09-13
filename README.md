@@ -9,7 +9,7 @@ RC Receiver   ----   Arduino Mega 2560
 - CH2 --------- Communication 19RX1
 - CH3 --------- Communication 20SDA
 - CH4---------- Communication 21SCL
-##
+
 
 ## Example 2
 
