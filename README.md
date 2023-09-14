@@ -25,4 +25,7 @@ RC Receiver   ----   Arduino Mega 2560
 - Ground ----- Power Ground
 - 5 V+  -------- Power 5V+ 
 - CH1 --------- Communication 18TX1
+
+
+  https://www.thegeekpub.com/wiki/list-of-arduino-sensors-and-modules/
   
