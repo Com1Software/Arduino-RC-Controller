@@ -27,5 +27,8 @@ RC Receiver   ----   Arduino Mega 2560
 - CH1 --------- Communication 18TX1
 
 
-  https://www.thegeekpub.com/wiki/list-of-arduino-sensors-and-modules/
+## Notes
+   https://www.electronicshub.org/arduino-modules-list/
+
+   https://www.thegeekpub.com/wiki/list-of-arduino-sensors-and-modules/
   
