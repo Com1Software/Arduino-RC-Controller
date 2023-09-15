@@ -32,6 +32,6 @@ RC Receiver   ----   Arduino Mega 2560
 
    https://www.thegeekpub.com/wiki/list-of-arduino-sensors-and-modules/
 
-   https://www.youtube.com/watch?v=8LXPcJD6hEA
+   https://www.instructables.com/Voltage-Measurement-Using-Arduino/
    
   
