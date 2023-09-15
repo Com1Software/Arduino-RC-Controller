@@ -33,5 +33,9 @@ RC Receiver   ----   Arduino Mega 2560
    https://www.thegeekpub.com/wiki/list-of-arduino-sensors-and-modules/
 
    https://www.instructables.com/Voltage-Measurement-Using-Arduino/
+
+   https://www.digikey.com/en/maker/projects/how-to-make-a-simple-digital-voltmeter-with-an-arduino/082dff9d725549aea8bf84a7e302c1b2
+
+   
    
   
